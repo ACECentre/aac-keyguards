@@ -1,7 +1,9 @@
 # Keyguard for Augmentative and Alternative Communication (AAC) Devices
 Some people who directly access (touch) an AAC device to help them communication benefit from using a keyguard to help guide their touches. This can help improve their accuracy and reduce mishits or untinended tocuhes on the screeen and can make communication faster and more efficient. A keyguard is a piece of clear plastic that covers the screen of the device with cutouts for the 'keys', the areas that need to be tocuhed to activate a command or generate speech.
 
-This is a hardware, not a software repository. I've included for most keyguards a dxf file that can be used to manufacture the keyguard using a CNC machine. FOr some, I've also included an stl file and an image. It is normally clear which device the keyguard is for by the folder name.
+I've also created a repository for [touch guides](https://github.com/paulhewett/aac-touchguides). These are often very similar but typically use smaller openings on thinner 2mm material.
+
+This is a hardware, not a software repository. I've included for most keyguards a dxf file that can be used to manufacture the keyguard using a CNC machine. For some, I've also included an stl file and an image. It is normally clear which device the keyguard is for by the folder name.
 
 These keyguards have been designed to be manufactured on a CNC machine. We would typically use 3mm thick PET_G material for its durability and better chemcial resistance. We find it to be very scratch resistant. Typically, a chamfer would be added to the edge of each key at 45 degrees to remove the edge, typically to a depth of almost half the material thickness.
 
